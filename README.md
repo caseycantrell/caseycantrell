@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:33C4FF,100:33FFE6&height=160&section=header&text=Casey%20Cantrell&animation=fadeIn&fontSize=40&fontColor=ffffff&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:33C4FF,100:33FFE6&height=160&section=header&text=Casey%20Cantrell&desc=hello&animation=fadeIn&fontSize=40&fontColor=ffffff&fontAlignY=30)
 ```js
 const caseyCantrell = {
     title: "Software Engineer",
