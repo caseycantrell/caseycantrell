@@ -23,6 +23,9 @@ const caseyCantrell = {
 <a href="mailto:cantrellcasey@gmail.com">
 <img src="https://img.shields.io/badge/-cantrellcasey@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cantrellcasey@gmail.com" />
 </a>
+<a href="https://www.caseycantrell.com">
+<img src="https://img.shields.io/badge/website-caseycantrell.com-green" />
+</a>
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:33FFE6,100:33C4FF&height=95&section=footer)
