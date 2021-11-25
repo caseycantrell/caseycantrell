@@ -14,13 +14,13 @@ const caseyCantrell = {
      };
 ```
 <a href="https://www.linkedin.com/in/cantrellcasey">
-<img src="https://img.shields.io/badge/-Casey_Cantrell-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cantrellcasey" align="center" /> 
+<img align="center" src="https://img.shields.io/badge/-Casey_Cantrell-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cantrellcasey" /> 
 </a> 
 <a href="https://www.instagram.com/caseyrells">
-<img src="https://img.shields.io/badge/-caseyrells-orange?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/caseyrells" align="center" /> 
+<img align="center" src="https://img.shields.io/badge/-caseyrells-orange?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/caseyrells" /> 
 </a>  
 <a href="mailto:cantrellcasey@gmail.com">
-<img src="https://img.shields.io/badge/-cantrellcasey@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cantrellcasey@gmail.com" align="center" />
+<img align="center" src="https://img.shields.io/badge/-cantrellcasey@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cantrellcasey@gmail.com" />
 </a>
     
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:33FFE6,100:33C4FF&height=95&section=footer)
