@@ -14,17 +14,17 @@ const caseyCantrell = {
      };
 ```
 <div align="center">
-<a href="https://www.linkedin.com/in/cantrellcasey" target="_blank">
+<a href="https://www.linkedin.com/in/cantrellcasey">
 <img src="https://img.shields.io/badge/-Casey_Cantrell-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cantrellcasey" /> 
 </a> 
-<a href="https://www.instagram.com/caseyrells" target="_blank">
+<a href="https://www.instagram.com/caseyrells">
 <img src="https://img.shields.io/badge/-caseyrells-orange?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/caseyrells" /> 
 </a>
 <a href="mailto:cantrellcasey@gmail.com">
 <img src="https://img.shields.io/badge/-cantrellcasey@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cantrellcasey@gmail.com" />
 </a>
 <a href="https://www.caseycantrell.com">
-<img src="https://img.shields.io/badge/-caseycantrell.com-success?style=for-the-badge&logo=Googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/-caseycantrell.com-000000?style=for-the-badge&logo=Googlechrome&logoColor=white" />
 </a>
 </div>
 
