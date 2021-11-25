@@ -13,9 +13,11 @@ const caseyCantrell = {
         openToWork: true,
      };
 ```
+<p align="center">
 <a href="https://www.linkedin.com/in/cantrellcasey">
 <img align="center" src="https://img.shields.io/badge/-Casey_Cantrell-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cantrellcasey" /> 
 </a> 
+</p>    
 <a href="https://www.instagram.com/caseyrells">
 <img align="center" src="https://img.shields.io/badge/-caseyrells-orange?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/caseyrells" /> 
 </a>  
