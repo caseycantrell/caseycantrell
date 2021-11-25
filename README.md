@@ -13,10 +13,10 @@ const caseyCantrell = {
         openToWork: true,
      };
 ```
-<a href="https://www.linkedin.com/in/cantrellcasey">
+<a href="https://www.linkedin.com/in/cantrellcasey" target="_blank">
 <img src="https://img.shields.io/badge/-Casey_Cantrell-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cantrellcasey" /> 
 </a> 
-<a href="https://www.instagram.com/caseyrells">
+<a href="https://www.instagram.com/caseyrells" target="_blank">
 <img src="https://img.shields.io/badge/-caseyrells-orange?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/caseyrells" /> 
 </a>
 <a href="mailto:cantrellcasey@gmail.com">
