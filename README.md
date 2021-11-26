@@ -3,12 +3,11 @@
 const caseyCantrell = {
     title: "Software Engineer",
     location: "Austin TX",
-    website: "www.caseycantrell.com",
     skills: {
         languages: ["JavaScript", "Ruby", "Python", "HTML", "CSS", "C++", "PHP"],
         frameworks: ["Vue.js", "React", "Rails", "Bootstrap"],
         databases: ["SQL", "mySQL", "postgreSQL", "MongoDB"],
-        misc: ["Recording Engineering", "Music Production", "Sound Design", "Audio/Video Editing"]
+        other: ["Recording Engineering", "Music Production", "Sound Design", "Audio/Video Editing"]
         },
         openToWork: true,
      };
