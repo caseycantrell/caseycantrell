@@ -3,6 +3,7 @@
 const caseyCantrell = {
     title: "Software Engineer",
     location: "Austin TX",
+    age: "Redacted",
     skills: {
         languages: ["JavaScript", "Ruby", "Python", "HTML", "CSS", "C++", "PHP"],
         frameworks: ["Vue.js", "React", "Rails", "Bootstrap"],
