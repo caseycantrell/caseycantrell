@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:33C4FF,100:33FFE6&height=160&section=header&text=Casey%20Cantrell&animation=scaleIn&fontSize=40&fontColor=ffffff&fontAlignY=30&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:33C4FF,100:33FFE6&height=160&section=header&text=Casey%20Cantrell&animation=scaleIn&fontSize=40&fontColor=ffffff&fontAlignY=30&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62&descSize=20)
 ```js
 const caseyCantrell = {
     title: "Software Engineer",
