@@ -6,7 +6,7 @@ const caseyCantrell = {
     age: "Redacted",
     skills: {
         languages: ["JavaScript", "Ruby", "Python", "HTML", "CSS", "C++", "PHP"],
-        frameworks: ["React", "Vue.js", "Rails", "Bootstrap"],
+        frameworks: ["React", "Vue.js", "Rails", "Bootstrap", "Angular"],
         databases: ["SQL", "mySQL", "postgreSQL", "MongoDB"],
         other: ["Recording Engineering", "Music Production", "Sound Design", "Audio/Video Editing"]
         },
