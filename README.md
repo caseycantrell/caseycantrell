@@ -5,7 +5,7 @@ const caseyCantrell = {
     location: "Austin TX",
     age: "Redacted",
     skills: {
-        languages: ["JavaScript", "Ruby", "Python", "HTML", "CSS", "C++", "PHP"],
+        languages: ["JavaScript", "TypeScript", "Ruby", "Python", "HTML", "CSS", "C++", "PHP"],
         frameworks: ["React", "Vue.js", "Rails", "Bootstrap"],
         databases: ["SQL", "mySQL", "postgreSQL", "MongoDB"],
         other: ["Recording Engineering", "Music Production", "Sound Design", "Audio/Video Editing"]
