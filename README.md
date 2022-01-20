@@ -18,7 +18,7 @@ const caseyCantrell = {
 <img src="https://img.shields.io/badge/-Casey_Cantrell-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cantrellcasey" /> 
 </a> 
 <a href="https://www.caseycantrell.com">
-<img src="https://img.shields.io/badge/-caseycantrell.com-04A7AD?style=for-the-badge&logo=Googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/-caseycantrell.com-0487AD?style=for-the-badge&logo=Googlechrome&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/caseyrells">
 <img src="https://img.shields.io/badge/-caseyrells-04A8AD?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/caseyrells" /> 
