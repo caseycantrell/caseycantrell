@@ -9,8 +9,7 @@ const caseyCantrell = {
         frameworks: ["React", "Vue", "Rails", "jQuery"],
         backend: ["SQL", "mySQL", "Postgres", "MongoDB", "Node.js"],
         other: ["Recording Engineering", "Music Production", "Sound Design", "Audio/Video Editing"]
-        },
-        openToWork: true,
+        }
      };
 ```
 <div align="center">
