@@ -5,10 +5,10 @@ const caseyCantrell = {
     location: "Austin TX",
     age: "Redacted",
     skills: {
-        languages: ["JavaScript", "Ruby", "Python", "HTML", "CSS", "C++"],
-        frameworks: ["React", "Vue", "Rails", "jQuery"],
-        backend: ["SQL", "mySQL", "Postgres", "MongoDB", "Node.js"],
-        other: ["Recording Engineering", "Music Production", "Sound Design", "Audio/Video Editing"]
+        frontend: ["React", "Next.js", "JavaScript", "HTML5", "CSS3+", "SASS"],
+        backend: ["Rails", "Node.js", "Python", "SQL", "Postgres", "Nginx"],
+        tools_and_version_control: ["Git", "GitHub", "Figma", "Jira"],
+        testing_and_methodologies: ["Rspec", "Jest", "Agile", "Scrum"]
         }
      };
 ```
