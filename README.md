@@ -4,8 +4,8 @@ const caseyCantrell = {
     title: "Software Engineer",
     location: "Austin TX",
     skills: {
-        frontend: ["React", "Next.js", "JavaScript", "HTML5", "CSS3+", "SASS"],
-        backend: ["Rails", "Node.js", "Python", "SQL", "Postgres", "Nginx"],
+        frontend: ["React", "Next.js", "JavaScript", "TypeScript", "HTML5", "CSS3+", "SASS"],
+        backend: ["Rails", "Node.js", "Ruby", "Python", "SQL", "Postgres", "Nginx"],
         tools_and_version_control: ["Git", "GitHub", "Figma", "Jira"],
         testing_and_methodologies: ["Rspec", "Jest", "Agile", "Scrum"]
         }
